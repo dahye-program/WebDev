@@ -51,3 +51,9 @@
   branch: 로컬 저장소의 branch목록 보는 것
 
   stash: 진행 중인 작업 임시 저장
+
+[피드백]
++ stage란?
++ git을 사용하는 가장 큰 이유?
++ git과 github의 차이는?
++ commit 구조?
