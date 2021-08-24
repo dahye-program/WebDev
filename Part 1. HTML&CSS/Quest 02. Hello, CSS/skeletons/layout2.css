@@ -12,19 +12,19 @@ body {
 	background-color: skyblue;
 	width: auto;
 	height: 800px;
-	float: none;
+	/*display: inline;*/
 }
 
 .left {
 	background-color: pink;
 	width: 200px;
 	height: 800px;
-	float: left;
+	float:left;
 }
 
 .right {
 	background-color: greenyellow;
 	width: 300px;
 	height: 800px;
-	float: right;
+	display: inline;
 }
