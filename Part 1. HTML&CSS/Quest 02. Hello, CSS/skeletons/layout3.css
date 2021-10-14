@@ -9,16 +9,20 @@ body {
 }
 
 .contents { /* section 태그 */
+	display: block;
+
 }
 
 .main { /* div */
 	background-color: skyblue;
 	width: auto;
+	height: auto;
 }
 
 .main header { /* div 안에 header */
 	background-color: lightgray;
 	width: auto;
+	height: 30px;
 	top: 0;
 }
 
